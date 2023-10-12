@@ -1,0 +1,1 @@
+# Coinbase-Wallet-API-Wallet-Storage-Plugin
